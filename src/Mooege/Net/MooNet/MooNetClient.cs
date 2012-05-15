@@ -483,7 +483,8 @@ namespace Mooege.Net.MooNet
             Unknown,
             Invalid,
             enUS,
-            enGB
+            enGB,
+            dede
         }
     }
 }
